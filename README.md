@@ -19,4 +19,4 @@ Editando pelo site
 Priscyllaaaaaaaa!
 
 ================================
-Mudei .ignore e .classpath para enviar o .jar do easyAccept
+Editar .ignore para enviar o .jar do easyAccept
