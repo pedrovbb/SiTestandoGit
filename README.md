@@ -1,7 +1,7 @@
 SiTestandoGit
 =============
 
-RepositÃ³rio apenas para testar plugin
+Repositório apenas para testar plugin
 
 Tentando dar commit!
 
@@ -18,4 +18,5 @@ Editando pelo site
 
 Priscyllaaaaaaaa!
 
-Calmaaa amooor, já te ligo!
+================================
+Mudei .ignore e .classpath para enviar o .jar do easyAccept
